@@ -12,35 +12,23 @@ h1,body,p{
 }
 .main
 {
-	height:50px;
+	height:70px;
 	background:#00324B;
 }
 
-.form-inline
-{
-	position: relative;
-	left:430px;
-}
-#title
-{
-	position:relative;
-	width: 150px;
-	left:430px;
-}
-#sub
-{
-	position:relative;
-	width: 100px;
-	left:600px;
-	bottom:50px;
-}
+
+
 #results
 {
 	background:#00324B;
-	height:450px;
+	height:510px;
 }
 .table
 {
 	position:relative;
 	top:10px;
+}
+.navbar-fixed-bottom
+{
+	height: 10px;
 }
